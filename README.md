@@ -9,7 +9,7 @@ Track any location with ip :)
 
     apt install git -y
 
-    git clone https://github.com/rajkumardusad/IP-Tracer.git
+    git clone https://github.com/Simisonka2022/Ip-Tracer.git
 
     cd IP-Tracer
 
